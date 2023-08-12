@@ -1,0 +1,135 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Zhicheng Zhang
+    - name: Date of Birth
+      value: 30th Septemper 2000
+    - name: Languages
+      value: Chinese, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D.
+      institution: Nankai University, Tian'jin, China
+      year: 2021
+      description:
+        - Advised by Prof. Jufeng Yang
+        - title: Research Focus.
+          contents:
+            - Geometric Analysis.
+            - Affective Computing.
+    - title: Bachelor
+      institution: Xidian University, Xi'an, China
+      year: 2017
+
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/nku-zhichengzhang/TSL300">TSL300</a>
+      year: 2022-now
+      description: Code base and dataset for our ACMMM22 paper.
+    - title: <a href="https://github.com/nku-zhichengzhang/WECL">WECL</a>
+      year: 2023-now
+      description: Code base for our CVPR23 paper.
+    - title: <a href="https://github.com/nku-zhichengzhang/PlaneSeg">PlaneSeg</a>
+      year: 2020-now
+      description: Code base and demo for our TNNLS23 paper.
+    - title: <a href="https://github.com/nku-zhichengzhang/MPOT">MPOT</a>
+      year: 2021-now
+      description: Code base and demo for our ICCV23 paper.
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - SK AI Innovation Award
+
+- title: Academic Service
+  type: nested_list
+  contents:
+    - title: Reviewer.
+      items: 
+        - ACMMM23.
+        - PRCV23.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Diffusion Models.
+      items:
+        - Efficient DM.
+        - DM with external knowledge.
+
+    - title: Self-Supervised Learning.
+      items:
+        - Masked Autoencoder.
+        - Contrastive Learning.
+
+    - title: Multimodal Learning.
+      items:
+        - Video-Language Pretraining.
+        - Video-Language Matching.
+        - Video Classification.
+
+    - title: Video Tracking.
+      items:
+        - Multiple Object Tracking.
+        - Video Object Tracking.
+        - Cell Tracking.
+    
+    - title: Geometric Analysis.
+      items: 
+        - Plane Segmentation.
+        - Plane Reconstruction.
+        - Plane Tracking.
+
+    - title: Affective Computing.
+      items:
+        - Video Emotion Recognition.
+        - Video Emotion Detection.
+        - Temporal Sentiment Localization.
+
+
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Basketball, Eating, etc.
